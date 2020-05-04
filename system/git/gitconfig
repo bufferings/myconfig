@@ -1,3 +1,6 @@
+# Copied from here:
+# https://github.com/timcharper/git_osx_installer/blob/282b2c2441f7f3f74167b42ce4256adab39c79bd/assets/etc/gitconfig.default
+
 [core]
 	excludesfile = ~/.gitignore
 	legacyheaders = false # >git 1.5
